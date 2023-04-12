@@ -1,0 +1,7 @@
+{
+	"presents": [
+		"@bebel/preset-env",
+		"@bebel/preset-react",
+		"@babel/preset-typescript"
+	]
+}
